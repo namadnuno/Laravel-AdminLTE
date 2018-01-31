@@ -5,13 +5,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeroen Noten",
-      "email": "jeroennoten@me.com"
-    },
-    {
       "name": "Nuno Alexandre",
       "email": "nunnomalex@gmail.com"
-    },
+    }
   ],
   "autoload": {
     "psr-4": {
