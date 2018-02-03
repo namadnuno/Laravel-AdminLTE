@@ -198,11 +198,11 @@ return [
     */
 
     'filters' => [
-        JeroenNoten\LaravelAdminLte\Menu\Filters\HrefFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\SubmenuFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\GateFilter::class,
+        Namadnuno\LaravelAdminLte\Menu\Filters\HrefFilter::class,
+        Namadnuno\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
+        Namadnuno\LaravelAdminLte\Menu\Filters\SubmenuFilter::class,
+        Namadnuno\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
+        Namadnuno\LaravelAdminLte\Menu\Filters\GateFilter::class,
     ],
 
     /*
