@@ -1,4 +1,5 @@
 /composer.lock
 /vendor
+.phpintel/
 .phpintel/index
 .phpintel/d36580b30651f9d0ab13f23d5e7ed245
