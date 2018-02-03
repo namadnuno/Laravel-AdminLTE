@@ -1,11 +1,11 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte;
+namespace Namadnuno\LaravelAdminLte;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Contracts\Container\Container;
-use JeroenNoten\LaravelAdminLte\Menu\Builder;
-use JeroenNoten\LaravelAdminLte\Events\BuildingMenu;
+use Namadnuno\LaravelAdminLte\Menu\Builder;
+use Namadnuno\LaravelAdminLte\Events\BuildingMenu;
 
 class AdminLte
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu;
+namespace Namadnuno\LaravelAdminLte\Menu;
 
 class Builder
 {
