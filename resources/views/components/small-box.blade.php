@@ -2,7 +2,7 @@
     <div class="inner">
         <h3>{{ $count }}</h3>
 
-        <p>{{ $text }}</p>
+        <p>{{ $slot }}</p>
     </div>
     <div class="icon">
         {{ $icon }}
